@@ -1,4 +1,11 @@
-# React + Vite
+# Book recommendation app
+
+The user enters, for example, their favorite topics or favorite authors and the application searches for books that match the user's wishes using the Finna API, Open Library and Google Books.
+
+
+
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
